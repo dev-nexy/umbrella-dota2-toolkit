@@ -31,15 +31,20 @@ Built for ease-of-use and modular performance, this version focuses on local exe
 
 > This package is designed to support a variety of advanced use cases within the Dota 2 client:
 
-- 🎮 **Game Enhancements** — from simplified control mechanics to full-action macros  
-- 🧠 **In-Game Awareness** — visibility layers, role data, cooldown insights  
-- ⚙️ **User-Side Customization** — UI profiles, skins, overlays  
-- 🔄 **Adaptive Behavior** — dynamic configuration per device session  
-- 💥 **Automation Modules** — quick-cast chains, reaction sequences, and more  
+- ⚙️ **Custom Interaction Profiles** — adaptive layouts, contextual UI elements, dynamic visual augmentations
+- ⚙️ **User-Side Customization** — UI profiles, skins, overlays
+- 🔄 **Smart Behavior Engine** — adaptive reaction profiles tailored to live in‑game events
+- 🎮 **Game Enhancements** — from simplified control mechanics to full-action macros
+- 🎨 **Visual Fidelity Extensions** — clarity-focused highlights, refined minimap signals, adjustable HUD perspectives
+- 🎮 **Gameplay Optimization** — refined control patterns, advanced action sequences, precision-based timing layouts
+- 🧠 **In-Game Awareness** — visibility layers, role data, cooldown insights
+- 🔄 **Adaptive Behavior** — dynamic configuration per device session
+- 💥 **Automation Modules** — quick-cast chains, reaction sequences, and more
+- 🧠 **Enhanced Awareness Layer** — extended situational indicators, positional prediction cues, strategic data overlays
+- 💥 **Action Sequencing Modules** — coordinated ability chains, optimized interaction flows, multi-step execution patterns
 - 🎨 **Visual Modifications** — theme control, minimap clarity, enhanced HUD presets
 
 All functionality is accessible from launch, with zero configuration required.
-
 ---
 
 ## 🔒 What’s different in this build?
