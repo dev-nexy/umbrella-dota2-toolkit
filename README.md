@@ -10,12 +10,12 @@ This is a **custom-packed utility layer** based on the original UMBRELLA project
 
 Built for ease-of-use and modular performance, this version focuses on local execution, personalization, and extended in-game features for advanced users.
 
----
+
 
 🎯 Gain access: 
 👉 https://ваш-сайт.здесь/архив
 
----
+
 
 ## 🔍 Key Highlights
 
@@ -69,8 +69,9 @@ This version is not a repack or fork — it's a **reworked local wrapper** desig
 
 ## ⚠️ Disclaimer
 
-This project is intended for **educational, testing, and UI customization purposes only**.  
-Usage may be restricted under the EULA of the original software. Use responsibly and at your own risk.
+This project is shared for interface customization, user-side enhancements, and experimentation.
+Please ensure your usage complies with the terms of the original software.
+The authors are not responsible for how the content is applied — use thoughtfully and respectfully.
 
 ---
 
@@ -83,3 +84,9 @@ Usage may be restricted under the EULA of the original software. Use responsibly
 | Preconfigured Settings | ✅ Yes     |
 | Telemetry-Free Build   | ✅ Yes     |
 | Full Feature Support   | ✅ Yes     |
+
+## 🔖 Tags / Topics
+
+This repository uses the following safe and SEO-friendly tags to describe its functionality:
+
+`dota2`, `dota2-tools`, `game-utility`, `desktop-client`, `custom-ui`, `local-module`, `standalone-tool`, `offline-app`, `interface-extension`, `performance-tweaks`, `modular-design`, `input-enhancer`, `automation-layer`, `game-configurator`, `overlay-interface`, `match-data`, `advanced-controls`, `desktop-gaming`, `ui-modification`, `runtime-module`
