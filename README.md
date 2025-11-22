@@ -1,4 +1,4 @@
-# 🔧 umbrella-dota2-toolkit — Custom Utility Layer for Dota 2
+# 🔧 umbrella-dota2-toolkit — Custom Utility for Dota 2
 
 An autonomous and enhanced version of the UMBRELLA framework for Dota 2, restructured for instant access and streamlined usage — without external dependencies, accounts, or activation steps.
 
